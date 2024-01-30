@@ -6,7 +6,7 @@ Este é o meu projeto de um website, desenvolvido durante a imersão Alura. Com 
 
 ## Aprendizados
 
-Fomos instruídos com o básico de HTML, CSS e JavaScript. Aprendemos layouts, pseudo-classes, responsividade, media-queries, manipulação do DOM, entre outros assuntos. Na última aula fomos introduzidos a frameworks, como funcionam e como são essenciais para o avanço no aprendizado dentro do Front-End. Também tivemos uma pequena introdução ao React e como ele se dispõe.
+Fomos instruídos com o básico de HTML, CSS e JavaScript. Aprendemos layouts, pseudo-classes, responsividade, media-queries, manipulação do DOM, entre outros assuntos. Para finalizar o trabalho, aprendemos também a consumir APIs, criamos uma API fake para fazermos a pesquisa dos artistas. Na última aula fomos introduzidos a frameworks, como funcionam e como são essenciais para o avanço no aprendizado dentro do Front-End. Também tivemos uma pequena introdução ao React e como ele se dispõe.
 
 ## Tecnologias utilizadas
 - HTML
